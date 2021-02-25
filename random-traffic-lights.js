@@ -1,4 +1,4 @@
-import ac from 'ansi-colors';
+const ac = require('ansi-colors');
 
 const colourCodes = [
   'black',
@@ -25,6 +25,4 @@ const randomTrafficLights = function(s) {
   console.log(ac[randomColour()](s));
 }
 
-export { randomTrafficLights };
-
-export default randomTrafficLights;
+module.exports = randomTrafficLights;

@@ -6,7 +6,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies":{
-    "ansi-colors":"^4.0.1"
+  "dependencies": {
+    "ansi-colors": "^4.0.1"
   }
 }
