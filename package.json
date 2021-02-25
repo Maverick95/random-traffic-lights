@@ -7,6 +7,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ansi-colors": "^4.0.1"
+    "ansi-colors": "^4.0.1",
+    "axios": "~0.21.1"
   }
 }
